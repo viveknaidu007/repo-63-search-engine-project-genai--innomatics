@@ -4,7 +4,11 @@ here im developing a model , where it will give informatoin query we typed based
 
 
 #creating environent
-conda create --name anyname
+conda create --name anyname python=3.8
 conda activate envname
 
 #install packages
+pip install -r requirements.txt
+
+
+#
